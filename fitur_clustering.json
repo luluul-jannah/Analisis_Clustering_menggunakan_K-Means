@@ -1,0 +1,13 @@
+[
+  "latitude",
+  "longitude",
+  "depth",
+  "mag",
+  "tsunami",
+  "sig",
+  "nst",
+  "dmin",
+  "rms",
+  "gap",
+  "confidence_score"
+]
